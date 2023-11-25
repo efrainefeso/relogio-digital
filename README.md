@@ -4,6 +4,12 @@
 
 <img src="https://github.com/efrainefeso/relogio-digital/assets/146659695/0dba3caa-2011-4013-8d96-1034f4c3de26" alt="Tela principal">
 
+<h2>Projeto Web</h2>
+<a href="https://relogioo-digital.netlify.app/">Visite a aplicação no site</a>
+
+<h2>Confira a demonstração em vídeo</h2>
+<a href=".">Assista ao vídeo</a>
+
 <h2>Funcionalidades</h2>
     <ul>
         <li><strong>Exibição da Hora Atual:</strong> O relógio digital mostra a hora atual em formato de 24 horas.</li>
