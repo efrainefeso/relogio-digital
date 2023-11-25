@@ -8,7 +8,7 @@
 <a href="https://relogioo-digital.netlify.app/">Visite a aplicação no site</a>
 
 <h2>Confira a demonstração em vídeo</h2>
-<a href=".">Assista ao vídeo</a>
+<a href="https://youtu.be/f3MRWKtVbVY">Assista ao vídeo</a>
 
 <h2>Funcionalidades</h2>
     <ul>
